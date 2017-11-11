@@ -9,7 +9,7 @@ setup(
     description='Dynamic inventory generator for Ansible',
     long_description=open('README.md').read(),
 
-    url='https://github.com/rudisimo/ansig',
+    url='https://github.com/rogueminds/ansig',
 
     author='Rodolfo Puig',
     author_email='rodolfo@puig.io',

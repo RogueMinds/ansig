@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-See https://github.com/rudisimo/ansig for more information.
+See https://github.com/rogueminds/ansig for more information.
 '''
 
 from os import path

@@ -6,7 +6,7 @@ Dynamic inventory generator for Ansible.
 
 ## Installation
 
-    pip install git+git://github.com/rudisimo/ansig.git@master
+    pip install git+git://github.com/rogueminds/ansig.git@master
 
 ## Usage
 
