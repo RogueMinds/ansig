@@ -24,6 +24,8 @@ setup(
         ]
     },
 
+    zip_safe=True,
+
     classifiers=(
         'Intended Audience :: Developers',
         'Programming Language :: Python :: 2',

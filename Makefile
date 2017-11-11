@@ -15,6 +15,9 @@ build-dist:
 build-release:
 	@/usr/bin/env python setup.py bdist_wheel --universal
 
+build-install:
+	@/usr/bin/env python setup.py install
+
 build-develop:
 	@/usr/bin/env python setup.py develop
 
@@ -29,6 +32,8 @@ clean: clean-pyc clean-build
 dist: clean-build build-dist
 
 release: clean-build build-release
+
+install: clean-build build-install
 
 develop: clean-build build-develop
 
